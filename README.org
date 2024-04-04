@@ -1,0 +1,6 @@
+#+title: scheduled-alert
+
+Schedule =alert= calls for the future.
+
+- =schedule-alert-schedule=: Schedule an alert for a specific time
+- =schedule-alert-cancel-all=: Cancel all scheduled alerts
